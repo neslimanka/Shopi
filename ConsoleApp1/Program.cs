@@ -75,8 +75,7 @@ namespace ConsoleApp1
 
             if (response.StatusCode == System.Net.HttpStatusCode.OK)
             {
-                //string rawResponse = response.Content;
-                //JSONData result = JsonConvert.DeserializeObject<JSONData>(rawResponse);
+              
             }
         }
     }
